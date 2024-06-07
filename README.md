@@ -1,0 +1,2 @@
+# understandingdjango
+Understanding Django
